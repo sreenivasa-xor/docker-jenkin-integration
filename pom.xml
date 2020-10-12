@@ -7,8 +7,8 @@
     <groupId>com.jenkinstest</groupId>
     <artifactId>docker-jenkin-integration</artifactId>
     <version>1.0-SNAPSHOT</version>
-
     <build>
         <finalName>docker-jenkin-integration</finalName>
     </build>
 </project>
+
