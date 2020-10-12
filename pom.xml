@@ -11,5 +11,4 @@
     <build>
         <finalName>docker-jenkin-integration</finalName>
     </build>
-    git branch -M main
 </project>
