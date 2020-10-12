@@ -10,8 +10,5 @@
     <build>
         <finalName>docker-jenkin-integration</finalName>
     </build>
-<<<<<<< HEAD
 </project>
-=======
-</project>
->>>>>>> 00d2ed7... second commit
+
